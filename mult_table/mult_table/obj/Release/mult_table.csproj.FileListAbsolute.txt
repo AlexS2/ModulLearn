@@ -1,0 +1,4 @@
+C:\Users\Salim\Documents\SharpDevelop Projects\mult_table\mult_table\bin\Release\mult_table.exe.config
+C:\Users\Salim\Documents\SharpDevelop Projects\mult_table\mult_table\bin\Release\mult_table.exe
+C:\Users\Salim\Documents\SharpDevelop Projects\mult_table\mult_table\obj\Release\mult_table.csprojResolveAssemblyReference.cache
+C:\Users\Salim\Documents\SharpDevelop Projects\mult_table\mult_table\obj\Release\mult_table.exe
